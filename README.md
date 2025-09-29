@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Kavish 👋  
 
 🎓 Master's student in **Data Science, Analytics & Engineering** at Arizona State University (Graduating May 2026)  
@@ -9,7 +7,7 @@
 ---
 ## 🔧 Skills & Tools  
 
-<p align="center">
+<p align="left">
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50" height="50" alt="Scala" />
@@ -21,8 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
   
-<!-- Cloud & Big Data -->  
-<p align="left">
+  <!-- Cloud & Big Data -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />
@@ -30,26 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="50" height="50" alt="Apache Spark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="50" height="50" alt="Hive" />
-</p>
   
   <!-- Visualization -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" alt="Tableau" />
   <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI" />
 </p>
-
----
-
-## 🚀 Projects  
-### 🟢 Containerized Real-Time Graph Analytics Pipeline  
-- Built with **Docker, Kubernetes, Helm, Apache Kafka, Neo4j, Python**  
-- Ingested the NYC Yellow Cab dataset at ~200 events/sec  
-- Achieved **sub-second latency PageRank queries**  
-- Automated CI/CD for container builds, versioning, and health checks  
-
-### 🎨 CLIP-Guided Diffusion Model on Tiny ImageNet  
-- Implemented **latent diffusion steered by CLIP ViT-B/32** for 64×64 images  
-- Benchmarked with **FID, Inception Score, and CLIP-similarity**  
-- Optimized UNet and sampling steps → **30% faster inference** while preserving fidelity  
 
 ---
 
@@ -60,9 +42,22 @@
 ---
 
 ## 📬 Connect with Me  
-- 📧 Email: [kavishpatel1102@gmail.com](mailto:kavishpatel1102@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 💻 [GitHub](https://github.com)  
+<p align="left">
+  <a href="mailto:kavishpatel1102@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🎉 Fun Fact  
+I enjoy playing **chess** and **swimming** — sometimes I even think about chess moves while swimming! 🏊♟️  
 
 ---
 
