@@ -41,6 +41,16 @@
 
 ---
 
+
+## 📜 Certifications  
+<p align="left">
+  <a href="https://coursera.org/verify/professional-cert/6YK88LPB4ZPA" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics-Certificate-blue?logo=google&logoColor=white" alt="Google Data Analytics Certification"/>
+  </a>
+</p>
+
+---
+
 ## 📬 Connect with Me  
 <p align="left">
   <a href="mailto:kavishpatel1102@gmail.com">
