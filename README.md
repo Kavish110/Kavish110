@@ -74,7 +74,7 @@
 ---
 
 ## 🎉 Fun Fact  
-I enjoy playing **chess** and **swimming** — sometimes I even think about chess moves while swimming! 🏊♟️  
+I enjoy playing **chess** WHILE **swimming**! 🏊♟️  
 
 ---
 
