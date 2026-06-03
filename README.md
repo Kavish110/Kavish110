@@ -1,8 +1,8 @@
 # Hi there, I'm Kavish 👋  
 
-🎓 Master's student in **Data Science, Analytics & Engineering** at Arizona State University (Graduating May 2026)  
 💡 Passionate about **Machine Learning, Deep Learning, Data Engineering, and Generative AI**  
 📊 Experienced in building automation systems, predictive ML models, and large-scale data pipelines  
+🏊♟️I enjoy playing **chess** WHILE **swimming**!   
 
 ---
 ## 🔧 Skills & Tools  
@@ -23,16 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
 </p>
 
-### ☁️ Cloud & Big Data  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50" height="50" alt="Kafka" />
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50" height="50" alt="Apache Spark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hive/hive-original.svg" width="50" height="50" alt="Hive" />
-</p>
 
 ### 📊 Visualization & BI  
 <p align="left">
@@ -74,7 +64,7 @@
 ---
 
 ## 🎉 Fun Fact  
-I enjoy playing **chess** WHILE **swimming**! 🏊♟️  
+
 
 ---
 
