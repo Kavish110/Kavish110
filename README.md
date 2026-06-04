@@ -2,7 +2,7 @@
 
 💡 Passionate about **Machine Learning, Deep Learning, Data Engineering, and Generative AI**  
 📊 Experienced in building automation systems, predictive ML models, and large-scale data pipelines  
-🏊♟️I enjoy playing **chess** WHILE **swimming**!   
+🏊♟️I enjoy playing **chess** and **swimming**!   
 
 ---
 ## 🔧 Skills & Tools  
