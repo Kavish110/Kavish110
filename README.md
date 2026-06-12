@@ -1,8 +1,22 @@
 # Hi there, I'm Kavish 👋  
+<table>
+<tr>
+<td valign="top" width="60%">
+I'm a Master's student in Data Science, Analytics & Engineering at Arizona State University, passionate about turning raw data into real-world impact. I specialize in building end-to-end ML pipelines, automation systems, and GenAI-powered applications.
 
-💡 Passionate about **Machine Learning, Deep Learning, Data Engineering, and Generative AI**  
-📊 Experienced in building automation systems, predictive ML models, and large-scale data pipelines  
-🏊♟️I enjoy playing **chess** and **swimming**!   
+
+🎓 M.S. in Data Science, Analytics & Engineering — Arizona State University (GPA: 3.67, Expected May 2026)
+🎓 B.E. in Electronics & Communication Engineering (Minor: Data Science) — CVM University (GPA: 9.16/10)
+🔍 Currently exploring LLMs, RAG pipelines, and agentic AI systems
+♟️ Chess player · 🏊 Swimmer · Lifelong learner
+
+
+</td>
+<td valign="top" width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="AI & Data Science GIF"/>
+</td>
+</tr>
+</table>   
 
 ---
 ## 🔧 Skills & Tools  
@@ -60,10 +74,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 🎉 Fun Fact  
+ 
 
 
 ---
