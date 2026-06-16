@@ -5,8 +5,7 @@
 I'm a Master's student in Data Science, Analytics & Engineering at Arizona State University, passionate about turning raw data into real-world impact. I specialize in building end-to-end ML pipelines, automation systems, and GenAI-powered applications.
 
 
-🎓 M.S. in Data Science, Analytics & Engineering — Arizona State University (GPA: 3.67, Expected May 2026)
-🎓 B.E. in Electronics & Communication Engineering (Minor: Data Science) — CVM University (GPA: 9.16/10)
+🎓 M.S. in Data Science, Analytics & Engineering — Arizona State University 
 🔍 Currently exploring LLMs, RAG pipelines, and agentic AI systems
 ♟️ Chess player · 🏊 Swimmer 
 
