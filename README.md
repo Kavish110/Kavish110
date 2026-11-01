@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td valign="top">
-I'm a Master's student in Data Science, Analytics & Engineering at Arizona State University, passionate about turning raw data into real-world impact. I specialize in building end-to-end ML pipelines, automation systems, and GenAI-powered applications.
+I'm passionate about turning raw data into real-world impact. I specialize in building end-to-end ML pipelines, automation systems, and GenAI-powered applications.
 
 
 🎓 M.S. in Data Science, Analytics & Engineering — Arizona State University 
@@ -27,6 +27,7 @@ I'm a Master's student in Data Science, Analytics & Engineering at Arizona State
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL" />
+  <img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/swift/swift-original.svg" width="50" height="50" alt="SQL" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" alt="MATLAB" />
 </p>
 
